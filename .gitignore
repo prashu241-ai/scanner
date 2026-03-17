@@ -1,0 +1,5 @@
+MiroFish/
+__pycache__/
+*.log
+*.bak
+.env
