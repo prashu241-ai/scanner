@@ -3,3 +3,4 @@ __pycache__/
 *.log
 *.bak
 .env
+.openclaw/
